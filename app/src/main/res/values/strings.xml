@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application WA</string>
+    String notificationContent = "Today's weather is sunny with a temperature of 25°C.";
+
+</resources>
